@@ -257,6 +257,14 @@
     (uuid ef48033d-c929-49b6-a7d0-b71c955ff782)
   )
 
+  (global_label "GLABEL" (shape input) (at 173.99 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 551c8494-4aaf-4a66-b152-80c9932405eb)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 183.2369 68.6594 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "Device:Q_NPN_BCE") (at 171.45 91.44 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 547ba58e-a9bf-429c-872c-80dcec988576)
