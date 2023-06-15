@@ -230,6 +230,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2761bf7f-2d77-46da-86d4-28475f038455)
   )
+  (text "This is some\nmultiline text" (at 170.815 62.23 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid aa3d9bdd-2cc6-4836-a38b-2b2e0b9d94dc)
+  )
 
   (label "ALABEL" (at 217.17 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
