@@ -177,7 +177,11 @@
 
   (no_connect (at 188.595 57.785) (uuid 82bde69c-ccff-46d5-8822-a968b498b0a6))
 
-  (bus_entry (at 192.405 86.995) (size 2.54 2.54)
+  (bus_entry (at 192.405 77.47) (size 2.54 2.54)
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 497f6402-66d0-497c-ba4a-654fd0e330a3)
+  )
+  (bus_entry (at 192.405 86.995) (size 2.54 -2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 7b466a62-b655-4456-ae73-66e18f79880f)
   )
@@ -186,6 +190,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 084ca4f3-67cf-4d42-bfb1-70a4e7ed469e)
   )
+  (bus (pts (xy 192.405 77.47) (xy 192.405 86.995))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 086cc504-ea9a-4c38-8147-48a672b9f965)
+  )
+
   (wire (pts (xy 165.1 60.96) (xy 165.1 68.58))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 15d6f783-c22c-4b56-b720-6e1b22f57146)
@@ -202,7 +211,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 5102aa49-345f-49dc-a4cd-04d93b795a12)
   )
-  (bus (pts (xy 192.405 73.66) (xy 192.405 86.995))
+  (bus (pts (xy 192.405 73.66) (xy 192.405 77.47))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 60f4a3d3-b245-4fdb-9fe2-5fc35f24daaf)
   )
