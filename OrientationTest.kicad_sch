@@ -175,6 +175,8 @@
     (uuid e01a6550-4516-404f-922e-d5d1cc72dc77)
   )
 
+  (no_connect (at 188.595 57.785) (uuid 82bde69c-ccff-46d5-8822-a968b498b0a6))
+
   (wire (pts (xy 156.21 80.01) (xy 156.21 68.58))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 084ca4f3-67cf-4d42-bfb1-70a4e7ed469e)
@@ -222,6 +224,11 @@
   (wire (pts (xy 165.1 68.58) (xy 173.99 68.58))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f625a4b6-d061-40ce-9f42-413b9b06c9c7)
+  )
+
+  (text "Some Text" (at 203.2 65.405 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2761bf7f-2d77-46da-86d4-28475f038455)
   )
 
   (label "ALABEL" (at 217.17 92.71 0)
